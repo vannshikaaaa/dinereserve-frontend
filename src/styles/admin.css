@@ -1,0 +1,27 @@
+.admin-container {
+  padding: 20px;
+}
+.admin-card {
+  background: #f2f2f2;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+.admin-input {
+  padding: 8px;
+  margin: 8px 5px 8px 0;
+}
+.admin-button {
+  background: #007bff;
+  color: white;
+  padding: 8px 15px;
+  border: none;
+  cursor: pointer;
+}
+.admin-button:hover {
+  background: #0056b3;
+}
+canvas {
+  max-width: 700px;
+  margin-top: 20px;
+}
